@@ -1,0 +1,14 @@
+baseURL = "https://fumikr.com/"
+languageCode = "en-us"
+title = "Fumikr"
+theme = "bootstrap-bp-hugo-startpage"
+
+hasCJKLanguage = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

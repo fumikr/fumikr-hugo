@@ -1,0 +1,17 @@
+welcomeText = "Startpage!"
+startPageColumns = true
+
+[[searchEngines]]
+  name = "Google"
+  activated = true
+  url = "https://www.google.com/search"
+
+[[searchEngines]]
+  name = "DuckDuckGo"
+  activated = true
+  url = "https://duckduckgo.com/"
+
+[[searchEngines]]
+  name = "Bing"
+  activated = true
+  url = "https://www.bing.com/search"
