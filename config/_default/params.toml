@@ -7,11 +7,11 @@ startPageColumns = true
   url = "https://www.google.com/search"
 
 [[searchEngines]]
-  name = "DuckDuckGo"
+  name = "Google for WordPress Info"
   activated = true
-  url = "https://duckduckgo.com/"
+  url = "https://cse.google.com/cse?cx=011006674894885990812:lxe4cdk4owr&q="
 
 [[searchEngines]]
-  name = "Bing"
+  name = "Google for TamperMonkey userscripts"
   activated = true
-  url = "https://www.bing.com/search"
+  url = "https://cse.google.com/cse?cx=011006674894885990812:x5wimeati0y"

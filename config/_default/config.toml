@@ -5,6 +5,8 @@ theme = "bootstrap-bp-hugo-startpage"
 
 hasCJKLanguage = true
 
+googleAnalytics = "G-J5BY5ZTRSM"
+
 [outputs]
   home = ["HTML", "RSS"]
 
