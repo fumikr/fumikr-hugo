@@ -1,14 +1,29 @@
 ---
 - group: Utilities
   items:
-    - title: GitHub
-      url: https://github.com/fumikr
-      icon: fab fa-github
+    - title: Font Awesome
+      url: https://fontawesome.com/icons?d=gallery&q=aw&m=free
+      icon: fab fa-font-awesome
+    - title: Font Awesome 4
+      url: https://fontawesome.com/v4.7.0/icons/
+      icon: fab fa-font-awesome-alt
+    - title: SimilarTech
+      url: https://www.similartech.com
+      icon: fas fa-compass fa-rotate-90
+    - title: Wappalyzer
+      url: https://www.wappalyzer.com/
+      icon: fas fa-layer-group
+    - title: Short.io
+      url: https://short.io?lmref=VHVCOA
+      icon: fas fa-link
 - group: Demos
   items:
     - title: ApexSpace Dashboard
       url: https://dashboard.apexspace.stream
       icon: fas fa-tachometer-alt
+    - title: Source Codes
+      url: https://github.com/fumikr
+      icon: fab fa-github
 - group: Trends
   items:
     - title: Netlify vs GitHub Pages
