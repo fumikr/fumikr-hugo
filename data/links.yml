@@ -13,6 +13,12 @@
     - title: Wappalyzer
       url: https://www.wappalyzer.com/
       icon: fas fa-layer-group
+    - title: Bitly
+      url: https://bitly.com/
+      icon: fas fa-link
+    - title: Linkly
+      url: https://linklyhq.com/
+      icon: fas fa-link
     - title: Short.io
       url: https://short.io?lmref=VHVCOA
       icon: fas fa-link
