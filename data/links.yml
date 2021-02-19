@@ -2,7 +2,7 @@
 - group: Utilities
   items:
     - title: Font Awesome
-      url: https://fontawesome.com/icons?d=gallery&q=aw&m=free
+      url: https://fontawesome.com/icons?d=gallery&q=gallery&m=free
       icon: fab fa-font-awesome
     - title: Font Awesome 4
       url: https://fontawesome.com/v4.7.0/icons/
@@ -22,6 +22,9 @@
     - title: Short.io
       url: https://short.io?lmref=VHVCOA
       icon: fas fa-link
+    - title: Liquid
+      url: https://shopify.github.io/liquid/
+      icon: fas fa-tint
 - group: Demos
   items:
     - title: ApexSpace Dashboard
