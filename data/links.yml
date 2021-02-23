@@ -1,5 +1,5 @@
 ---
-- group: Utilities
+- group: Dev Tools
   items:
     - title: Font Awesome
       url: https://fontawesome.com/icons?d=gallery&q=gallery&m=free
@@ -13,28 +13,35 @@
     - title: Wappalyzer
       url: https://www.wappalyzer.com/
       icon: fas fa-layer-group
-    - title: Bitly
-      url: https://bitly.com/
-      icon: fas fa-link
+- group: Resources
+  items:
     - title: Linkly
       url: https://linklyhq.com/
       icon: fas fa-link
     - title: Short.io
       url: https://short.io?lmref=VHVCOA
       icon: fas fa-link
-    - title: Liquid
-      url: https://shopify.github.io/liquid/
-      icon: fas fa-tint
-- group: Demos
-  items:
+    - title: Demos
+      icon: fas fa-bars
     - title: ApexSpace Dashboard
       url: https://dashboard.apexspace.stream
       icon: fas fa-tachometer-alt
     - title: Source Codes
       url: https://github.com/fumikr
       icon: fab fa-github
-- group: Trends
+- group: JAMstacks
   items:
+    - title: JAMstacks.org
+      url: jamstack.org
+      icon: fas fa-shapes
+    - title: Markdown Guide
+      url: https://www.markdownguide.org/
+      icon: fab fa-markdown
+    - title: Liquid
+      url: https://shopify.github.io/liquid/
+      icon: fas fa-tint
+    - title: Trends
+      icon: fas fa-bars
     - title: Netlify vs GitHub Pages
       url: https://trends.google.com/trends/explore?date=today%205-y&q=%2Fg%2F11fd7d7m5b,%2Fg%2F11fj7lywfq
       icon: fas fa-chart-line
