@@ -13,6 +13,9 @@
     - title: Wappalyzer
       url: https://www.wappalyzer.com/
       icon: fas fa-layer-group
+    - title: WooCommerce vs Magento
+      url: https://trends.google.com/trends/explore?date=today%205-y&q=WooCommerce,%2Fm%2F04065k0
+      icon: fas fa-chart-line
 - group: Resources
   items:
     - title: Linkly
@@ -21,7 +24,6 @@
     - title: Short.io
       url: https://short.io?lmref=VHVCOA
       icon: fas fa-link
-    - title: Demos
     - title: ApexSpace Dashboard
       url: https://dashboard.apexspace.stream
       icon: fas fa-tachometer-alt
@@ -39,13 +41,9 @@
     - title: Liquid
       url: https://shopify.github.io/liquid/
       icon: fas fa-tint
-    - title: Trends
     - title: Netlify vs GitHub Pages
       url: https://trends.google.com/trends/explore?date=today%205-y&q=%2Fg%2F11fd7d7m5b,%2Fg%2F11fj7lywfq
       icon: fas fa-chart-line
     - title: Jekyll vs Hugo
       url: https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F0_s0_f0,%2Fg%2F11bz0zv6h4
-      icon: fas fa-chart-line
-    - title: WooCommerce vs Magento
-      url: https://trends.google.com/trends/explore?date=today%205-y&q=WooCommerce,%2Fm%2F04065k0
       icon: fas fa-chart-line
