@@ -13,6 +13,9 @@
     - title: Wappalyzer
       url: https://www.wappalyzer.com/
       icon: fas fa-layer-group
+    - title: BuiltWith
+      url: https://builtwith.com/
+      icon: fas fa-layer-group
     - title: WooCommerce vs Magento
       url: https://trends.google.com/trends/explore?date=today%205-y&q=WooCommerce,%2Fm%2F04065k0
       icon: fas fa-chart-line
