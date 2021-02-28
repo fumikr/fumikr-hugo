@@ -2,7 +2,7 @@
 - group: Dev Tools
   items:
     - title: Font Awesome
-      url: https://fontawesome.com/icons?d=gallery&q=gallery&m=free
+      url: https://fontawesome.com/icons?d=gallery&m=free
       icon: fab fa-font-awesome
     - title: Font Awesome 4
       url: https://fontawesome.com/v4.7.0/icons/
@@ -16,9 +16,15 @@
     - title: BuiltWith
       url: https://builtwith.com/
       icon: fas fa-layer-group
+    - title: Octostats
+      url: https://octostats.netlify.app/
+      icon: fas fa-tachometer-alt
     - title: WooCommerce vs Magento
       url: https://trends.google.com/trends/explore?date=today%205-y&q=WooCommerce,%2Fm%2F04065k0
       icon: fas fa-chart-line
+    - title: Free SEO Tools by SiteAnalyzer
+      url: https://site-analyzer.pro/services-seo/
+      icon: fas fa-toolbox
 - group: Resources
   items:
     - title: Linkly
