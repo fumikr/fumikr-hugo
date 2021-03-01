@@ -22,6 +22,9 @@
     - title: WooCommerce vs Magento
       url: https://trends.google.com/trends/explore?date=today%205-y&q=WooCommerce,%2Fm%2F04065k0
       icon: fas fa-chart-line
+    - title: Microsoft Clarity
+      url: https://clarity.microsoft.com/
+      icon: fas fa-tachometer-alt
     - title: Free SEO Tools by SiteAnalyzer
       url: https://site-analyzer.pro/services-seo/
       icon: fas fa-toolbox
@@ -36,13 +39,13 @@
     - title: ApexSpace Dashboard
       url: https://dashboard.apexspace.stream
       icon: fas fa-tachometer-alt
-    - title: Source Codes
+    - title: Our Source Codes
       url: https://github.com/fumikr
       icon: fab fa-github
 - group: JAMstacks
   items:
     - title: JAMstacks.org
-      url: jamstack.org
+      url: https://jamstack.org
       icon: fas fa-shapes
     - title: Markdown Guide
       url: https://www.markdownguide.org/
