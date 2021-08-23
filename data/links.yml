@@ -53,6 +53,9 @@
     - title: Liquid
       url: https://shopify.github.io/liquid/
       icon: fas fa-tint
+    - title: css2sass
+      url: https://css2sass.herokuapp.com/
+      icon: fab fa-css3-alt
     - title: Netlify vs GitHub Pages
       url: https://trends.google.com/trends/explore?date=today%205-y&q=%2Fg%2F11fd7d7m5b,%2Fg%2F11fj7lywfq
       icon: fas fa-chart-line
