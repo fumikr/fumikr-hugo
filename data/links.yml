@@ -7,6 +7,9 @@
     - title: Font Awesome 4
       url: https://fontawesome.com/v4.7.0/icons/
       icon: fab fa-font-awesome-alt
+    - title: Web Safe Fonts
+      url: https://www.cssfontstack.com/
+      icon: fas fa-font
     - title: SimilarTech
       url: https://www.similartech.com
       icon: fas fa-compass fa-rotate-90
@@ -16,9 +19,6 @@
     - title: BuiltWith
       url: https://builtwith.com/
       icon: fas fa-layer-group
-    - title: Octostats
-      url: https://octostats.netlify.app/
-      icon: fas fa-tachometer-alt
     - title: WooCommerce vs Magento
       url: https://trends.google.com/trends/explore?date=today%205-y&q=WooCommerce,%2Fm%2F04065k0
       icon: fas fa-chart-line
@@ -42,6 +42,9 @@
     - title: Our Source Codes
       url: https://github.com/fumikr
       icon: fab fa-github
+    - title: Octostats
+      url: https://octostats.netlify.app/
+      icon: fas fa-tachometer-alt
 - group: JAMstacks
   items:
     - title: JAMstacks.org
