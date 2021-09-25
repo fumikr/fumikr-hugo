@@ -45,6 +45,9 @@
     - title: Octostats
       url: https://octostats.netlify.app/
       icon: fas fa-tachometer-alt
+    - title: Astral
+      url: https://app.astralapp.com/
+      icon: fas fa-th-list
 - group: JAMstacks
   items:
     - title: JAMstacks.org
