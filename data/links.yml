@@ -28,6 +28,9 @@
     - title: Free SEO Tools by SiteAnalyzer
       url: https://site-analyzer.pro/services-seo/
       icon: fas fa-toolbox
+    - title: Table Convert Online
+      url: https://tableconvert.com/
+      icon: fa-solid fa-table
 - group: Resources
   items:
     - title: Linkly
