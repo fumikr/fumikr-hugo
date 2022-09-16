@@ -71,3 +71,6 @@
     - title: Jekyll vs Hugo
       url: https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F0_s0_f0,%2Fg%2F11bz0zv6h4
       icon: fas fa-chart-line
+    - title: Netlify
+      url: https://www.netlify.com/
+      icon: fa-brands fa-jira
