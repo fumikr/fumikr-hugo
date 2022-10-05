@@ -10,6 +10,21 @@
     - title: Web Safe Fonts
       url: https://www.cssfontstack.com/
       icon: fas fa-font
+    - title: Google Search Console
+      url: https://search.google.com/search-console/
+      icon: fas fa-chart-area
+    - title: Google Analytics
+      url: https://analytics.google.com/
+      icon: fas fa-chart-area
+    - title: Microsoft Clarity
+      url: https://clarity.microsoft.com/
+      icon: fas fa-tachometer-alt
+    - title: Google Optimize
+      url: https://optimize.google.com/
+      icon: fas fa-angle-double-left
+    - title: Free SEO Tools by SiteAnalyzer
+      url: https://site-analyzer.pro/services-seo/
+      icon: fas fa-toolbox
     - title: SimilarTech
       url: https://www.similartech.com
       icon: fas fa-compass fa-rotate-90
@@ -19,30 +34,27 @@
     - title: BuiltWith
       url: https://builtwith.com/
       icon: fas fa-layer-group
-    - title: WooCommerce vs Magento
-      url: https://trends.google.com/trends/explore?date=today%205-y&q=WooCommerce,%2Fm%2F04065k0
-      icon: fas fa-chart-line
-    - title: Microsoft Clarity
-      url: https://clarity.microsoft.com/
-      icon: fas fa-tachometer-alt
-    - title: Free SEO Tools by SiteAnalyzer
-      url: https://site-analyzer.pro/services-seo/
-      icon: fas fa-toolbox
-    - title: Table Convert Online
-      url: https://tableconvert.com/
-      icon: fa-solid fa-table
 - group: Resources
   items:
+    - title: Airtable
+      url: https://airtable.com/
+      icon: fas fa-table
+    - title: Evernote
+      url: https://www.evernote.com/
+      icon: fab fa-evernote
+    - title: Google Data Studio
+      url: https://datastudio.google.com/
+      icon: fas fa-chart-bar
+    - title: bitly
+      url: https://bitly.com/
+      icon: fas fa-link
     - title: Linkly
       url: https://linklyhq.com/
       icon: fas fa-link
     - title: Short.io
       url: https://short.io?lmref=VHVCOA
       icon: fas fa-link
-    - title: ApexSpace Dashboard
-      url: https://dashboard.apexspace.stream
-      icon: fas fa-tachometer-alt
-    - title: Our Source Codes
+    - title: GitHub Repository
       url: https://github.com/fumikr
       icon: fab fa-github
     - title: Octostats
@@ -51,6 +63,12 @@
     - title: Astral
       url: https://app.astralapp.com/
       icon: fas fa-th-list
+    - title: WPExplorer
+      url: https://www.wpexplorer.com/
+      icon: fab fa-wpexplorer
+    - title: ManageWP
+      url: https://managewp.com/
+      icon: fas fa-campground
 - group: JAMstacks
   items:
     - title: JAMstacks.org
@@ -62,15 +80,18 @@
     - title: Liquid
       url: https://shopify.github.io/liquid/
       icon: fas fa-tint
-    - title: css2sass
-      url: https://css2sass.herokuapp.com/
-      icon: fab fa-css3-alt
+    - title: Netlify
+      url: https://www.netlify.com/
+      icon: fab fa-jira
     - title: Netlify vs GitHub Pages
       url: https://trends.google.com/trends/explore?date=today%205-y&q=%2Fg%2F11fd7d7m5b,%2Fg%2F11fj7lywfq
       icon: fas fa-chart-line
     - title: Jekyll vs Hugo
       url: https://trends.google.com/trends/explore?date=today%205-y&q=%2Fm%2F0_s0_f0,%2Fg%2F11bz0zv6h4
       icon: fas fa-chart-line
-    - title: Netlify
-      url: https://www.netlify.com/
-      icon: fa-brands fa-jira
+    - title: css2sass
+      url: https://css2sass.herokuapp.com/
+      icon: fab fa-css3-alt
+    - title: Table Convert Online
+      url: https://tableconvert.com/
+      icon: fas fa-table
