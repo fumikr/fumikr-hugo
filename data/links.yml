@@ -34,6 +34,9 @@
     - title: BuiltWith
       url: https://builtwith.com/
       icon: fas fa-layer-group
+    - title: Lorem Ipsum
+      url: https://loremipsum.io/
+      icon: fas fa-paragraph
 - group: Resources
   items:
     - title: Airtable
@@ -77,12 +80,21 @@
     - title: Markdown Guide
       url: https://www.markdownguide.org/
       icon: fab fa-markdown
+    - title: Jekyll
+      url: https://jekyllrb.com/
+      icon: fas fa-vial
     - title: Liquid
       url: https://shopify.github.io/liquid/
       icon: fas fa-tint
+    - title: Hugo
+      url: https://gohugo.io/
+      icon: fab fa-hire-a-helper
     - title: Netlify
       url: https://www.netlify.com/
       icon: fab fa-jira
+    - title: Cloudflare Pages
+      url: https://pages.cloudflare.com/
+      icon: fas fa-cloud
     - title: Netlify vs GitHub Pages
       url: https://trends.google.com/trends/explore?date=today%205-y&q=%2Fg%2F11fd7d7m5b,%2Fg%2F11fj7lywfq
       icon: fas fa-chart-line
