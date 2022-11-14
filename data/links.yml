@@ -1,6 +1,9 @@
 ---
 - group: Dev Tools
   items:
+    - title: Fontello
+      url: https://fontello.com/
+      icon: fab fa-fonticons
     - title: Font Awesome
       url: https://fontawesome.com/icons?d=gallery&m=free
       icon: fab fa-font-awesome
@@ -25,6 +28,15 @@
     - title: Free SEO Tools by SiteAnalyzer
       url: https://site-analyzer.pro/services-seo/
       icon: fas fa-toolbox
+    - title: Lorem Ipsum
+      url: https://loremipsum.io/
+      icon: fas fa-paragraph
+    - title: CSS Sprites Generator
+      url: https://www.toptal.com/developers/css/sprite-generator
+      icon: fas fa-grip-horizontal
+    - title: 'data: URI Generator'
+      url: https://dopiaza.org/tools/datauri/index.php
+      icon: fas fa-file-code
     - title: SimilarTech
       url: https://www.similartech.com
       icon: fas fa-compass fa-rotate-90
@@ -34,9 +46,6 @@
     - title: BuiltWith
       url: https://builtwith.com/
       icon: fas fa-layer-group
-    - title: Lorem Ipsum
-      url: https://loremipsum.io/
-      icon: fas fa-paragraph
 - group: Resources
   items:
     - title: Airtable
