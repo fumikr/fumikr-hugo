@@ -31,6 +31,9 @@
     - title: Lorem Ipsum
       url: https://loremipsum.io/
       icon: fas fa-paragraph
+    - title: Glob Tester
+      url: https://www.digitalocean.com/community/tools/glob
+      icon: fas fa-asterisk
     - title: CSS Sprites Generator
       url: https://www.toptal.com/developers/css/sprite-generator
       icon: fas fa-grip-horizontal
@@ -116,3 +119,7 @@
     - title: Table Convert Online
       url: https://tableconvert.com/
       icon: fas fa-table
+    - title: Grammarly to Markdown
+      url: https://brunoluiz.net/grammarly-markdown-extension/
+      icon: fas fa-file-export
+
