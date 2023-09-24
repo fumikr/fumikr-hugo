@@ -49,6 +49,9 @@
     - title: BuiltWith
       url: https://builtwith.com/
       icon: fas fa-layer-group
+    - title: Web Code Tools
+      url: https://webcode.tools/
+      icon: fas fa-toolbox
 - group: Resources
   items:
     - title: Airtable
