@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "rusnasonov.vscode-hugo",
+    "budparr.language-hugo-vscode",
+    "fivethree.vscode-hugo-snippets",
+    "eliostruyf.vscode-hugo-themer",
+    "kisstkondoros.vscode-gutter-preview",
+    "shailen.netlify",
+    "redhat.vscode-yaml"
+  ]
+}
