@@ -52,6 +52,8 @@
     - title: Web Code Tools
       url: https://webcode.tools/
       icon: fas fa-toolbox
+    - title: DocstringAI
+      url: https://www.docstring.ai/
 - group: Resources
   items:
     - title: Airtable
